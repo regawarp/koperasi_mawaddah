@@ -23,7 +23,7 @@
 				</div>
 				<div class="menu-bar">
 					<ul class="nav-bar">
-						<a href="beranda"><li>Beranda</li></a>
+						<a href="beranda"><li>Beranda :)</li></a>
 						<a href="aturan"><li>Aturan</li></a>
 						<a href="login"><li>Login</li></a>
 						<a href="#" class="active"><li>About</li></a>
