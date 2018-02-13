@@ -3,16 +3,16 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Koperasi Mawaddah</title>
+    <title>Koperasi Mawaddah :D</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-	
+
 	<!--  CSS -->
 	<link rel="stylesheet" href="css/style.css">
-	
+
 	<!--  JS -->
     <script src="public/js/main.js"></script>
-	
+
   </head>
   <body class="cek">
 	<div>
@@ -49,7 +49,7 @@
 							<small>
 								Jl. Gegerkalong Hilir, Ds. Ciwaruga Kotak Pos 1234 Bandung 40012<br/>
 								Telepon (022) 2013789<br/>
-								Fax. (022) 2013889	
+								Fax. (022) 2013889
 							</small>
 						</div>
 						<div class="clear"></div>
@@ -62,5 +62,5 @@
 		</footer>
 	</div>
   </body>
-  
+
  </html>
