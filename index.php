@@ -4,4 +4,6 @@
 	//Tio Edit Sini
 
 	//Gua Boleh gak ngedit
+
+	// Ga boleh
 ?>
